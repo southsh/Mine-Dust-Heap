@@ -1,0 +1,20 @@
+﻿  AttackHandle.cpp
+C:\Users\sh\Desktop\HoneyPot\AttackHandle.cpp(38,40): warning C4477: “snprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“const char *”
+C:\Users\sh\Desktop\HoneyPot\AttackHandle.cpp(38,40): warning C4313: "snprintf": 格式字符串中的 "%d" 与类型为 "const char *" 的参数 1 冲突
+C:\Users\sh\Desktop\HoneyPot\AttackHandle.cpp(41,37): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  RDP_HoneyPot.cpp
+C:\Users\sh\Desktop\HoneyPot\RDP_HoneyPot.cpp(21,26): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\sh\Desktop\HoneyPot\RDP_HoneyPot.cpp(75,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  SSH_HoneyPot.cpp
+C:\Users\sh\Desktop\HoneyPot\SSH_HoneyPot.cpp(22,26): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\sh\Desktop\HoneyPot\SSH_HoneyPot.cpp(74,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Telnet_HoneyPot.cpp
+C:\Users\sh\Desktop\HoneyPot\Telnet_HoneyPot.cpp(18,28): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\sh\Desktop\HoneyPot\Telnet_HoneyPot.cpp(50,36): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+C:\Users\sh\Desktop\HoneyPot\Telnet_HoneyPot.cpp(70,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  HoneyPot.vcxproj -> C:\Users\sh\Desktop\HoneyPot\x64\Release\HoneyPot.exe

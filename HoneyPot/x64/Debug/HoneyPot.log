@@ -1,4 +1,0 @@
-﻿  SSH_HoneyPot.cpp
-C:\Users\sh\Desktop\HoneyPot\SSH_HoneyPot.cpp(22,26): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
-C:\Users\sh\Desktop\HoneyPot\SSH_HoneyPot.cpp(69,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
-  HoneyPot.vcxproj -> C:\Users\sh\Desktop\HoneyPot\x64\Debug\HoneyPot.exe
